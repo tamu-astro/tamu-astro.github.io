@@ -4,6 +4,6 @@ document.write("</header>");
 document.write("<p>If you have any questions, please feel free to reach out to us!</p>");
 document.write("<ul class='contact'>");
 document.write("<li class='icon solid fa-envelope'>Graduate Student Representative: Jonathan Cohn, <a href='mailto:joncohn@tamu.edu'>joncohn@tamu.edu</a></li>");
-document.write("<li class='icon solid fa-envelope'>Postdocs &amp; Researchers contact: Terese Hansen, <a href='mailto:thidemannhansen@gmail.com'>thidemannhansen@gmail.com</a></li>");
+document.write("<li class='icon solid fa-envelope'>Postdocs &amp; Researchers contact: Jasleen Matharu, <a href='mailto:jmatharu@tamu.edu'>jmatharu@tamu.edu</a></li>");
 document.write("<li class='icon solid fa-envelope'>Faculty contact &amp; Astronomy graduate program faculty advisor: Lucas Macri, <a href='mailto:lmacri@tamu.edu'>lmacri@tamu.edu</a></li>");
 document.write("</ul>");
